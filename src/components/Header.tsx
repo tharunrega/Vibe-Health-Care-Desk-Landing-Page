@@ -53,7 +53,7 @@ export function Header() {
       }`}
       style={{ top: 0 }}
     >
-      <div className="max-w-[1440px] mx-auto px-16 py-6 flex items-center justify-between">
+      <div className="max-w-[1440px] mx-auto px-10 py-6 flex items-center justify-between">
         <img src="/logo.png" alt="Health Desk Clinic" className="h-[78px]" />
         
         <nav className="flex items-center gap-12">
